@@ -8,10 +8,6 @@ This project provides an in-depth analysis of Amazon sales data using three main
 - [Introduction]
 - [Project Structure]
 - [Tools Used]
-- [Getting Started]
-- [Usage]
-- [Contributing]
-- [License]
 
 ## Introduction
 
