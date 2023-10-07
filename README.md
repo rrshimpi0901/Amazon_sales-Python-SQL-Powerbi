@@ -2,7 +2,7 @@
 ![download (1)](https://github.com/rrshimpi0901/Amazon_sales/assets/126953112/f3acf734-64b8-4439-aa40-30a3ab284aae)
 
 This project provides an in-depth analysis of Amazon sales data using three main tools: Python, Power BI, and SQL. The project includes code and visualizations to help you understand and explore the dataset.
-
+ 
 ## Table of Contents
 
 - [Introduction]
