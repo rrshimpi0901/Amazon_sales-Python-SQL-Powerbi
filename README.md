@@ -3,7 +3,7 @@
 
 This project provides an in-depth analysis of Amazon sales data using three main tools: Python, Power BI, and SQL. The project includes code and visualizations to help you understand and explore the dataset.
  
-## Table of Contents
+## Table of Contents   
 
 - [Introduction]
 - [Project Structure]
